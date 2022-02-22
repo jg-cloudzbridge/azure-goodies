@@ -1,2 +1,2 @@
 # azure-goodies
-various Azure goodies
+Azure goodies
